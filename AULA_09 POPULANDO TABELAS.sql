@@ -55,19 +55,19 @@ PRIMARY KEY CLUSTERED
 
 --INSERINDO REGRISTROS NA UF
 INSERT INTO TBL_UF (UF, Cidade)
-VALUES ('SP', 'São Paulo'),
+VALUES ('SP', 'Sao Paulo'),
        ('RJ', 'Rio de Janeiro'),
        ('PR', 'Curitiba'),
-       ('RJ', 'Nova Iguaçu'),
+       ('RJ', 'Nova Iguacu'),
        ('SP', 'Campinas'),
        ('BA', 'Salvador'),
        ('SP', 'Guarulhos'),
        ('CE', 'Fortaleza'),
-       ('RJ', 'Niterói'),
+       ('RJ', 'Niteroi'),
        ('PE', 'Recife'),
        ('MG', 'Belo Horizonte'),
        ('RS', 'Porto Alegre'),
-       ('GO', 'Goiânia');
+       ('GO', 'Goiania');
 
 --SELECT * FROM TBL_UF
 
